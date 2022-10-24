@@ -39,7 +39,7 @@
 ### 📂 开源项目 | Open Source projects
 - [pivisionM - A pixiv client for Android](https://github.com/mouyase/pivisionM)
 - [ChinaListForAdGuardHome - Some dns config files for AdGuardHome](https://github.com/mouyase/ChinaListForAdGuardHome)
-- [MiraiApi - Mikusa Random Image Api](https://github.com/mouyase/MiraiApi)
+- [MiraiApi - Miku Random Image Api](https://github.com/mouyase/MiraiApi)
 
 ### ℹ️ Github相关信息 | Github infomation
 
