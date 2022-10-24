@@ -13,7 +13,7 @@
 - Tech enthusiast.
 - Open Source enthusiast.
 - Currently working in Chengdu, China.
-- I love anime & games
+- I love anime & games.
 
 ### 🛠 技术栈 | Tech stack
 
@@ -50,7 +50,6 @@
 ![Count](https://count.getloli.com/get/@mouyase?theme=gelbooru)
 
 ### 💖关于我 | About me
-- [Blog](https://yojigen.tech)
-- [Twitter](https://twitter.com/mouyase)
+![Steam](https://img.shields.io/badge/-Steam-mouyase-333333?style=flat&logo=steam&logoColor=000000)
 
 > ***I hope to have some friends with the same hobbies, if you are like that, please talk to me, i will be happy🥳***
