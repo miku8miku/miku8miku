@@ -36,31 +36,21 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![PhotoShop](https://img.shields.io/badge/-PhotoShop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
-### 开源项目 | Open Source projects
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+### 📂 开源项目 | Open Source projects
+- [pivisionM - A pixiv client for Android](https://github.com/mouyase/pivisionM)
+- [ChinaListForAdGuardHome - Some dns config files for AdGuardHome](https://github.com/mouyase/ChinaListForAdGuardHome)
+- [MiraiApi - Mikusa Random Image Api](https://github.com/mouyase/MiraiApi)
 
-### Github相关指标 | Github related metrics
+### ℹ️ Github相关指标 | Github related metrics
 
 ![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouyase&theme=github)
 ![GithubMostCommitLanguage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouyase&theme=github)
 
-### 这里已经被光临过多少次 | How many times have viewer been here
+### 🔢 这里已经被光临过多少次 | How many times have viewer been here
 ![Count](https://count.getloli.com/get/@mouyase?theme=gelbooru)
 
-### 关于我 | About me
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+### 💖关于我 | About me
+- [Blog](https://yojigen.tech)
+- [Twitter](https://twitter.com/mouyase)
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+> ***I hope to have some friends with the same hobbies, if you are like that, please talk to me, i will be happy🥳***
