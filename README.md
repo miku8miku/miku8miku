@@ -17,7 +17,7 @@
 
 ### 🛠 技术栈 | Tech stack
 
-- ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- ![Linux](https://img.shields.io/badge/Linux?style=flat&logo=Linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 - ![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
