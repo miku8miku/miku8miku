@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/stars/mouyase?style=social)
 
 ---
-<img align="right" src="https://github.com/mouyase/mouyase/blob/main/image/cover.jpg" />
+<img align="right" src="https://cdn.jsdelivr.net/gh/mouyase/mouyase@master/image/cover.jpg" />
 
 ### 🥰 我是谁 | Who am i
 
@@ -53,7 +53,7 @@
 ![Weibo](https://img.shields.io/badge/Weibo-mouyase-333333?style=flat&logo=sinaweibo&logoColor=E6162D)
 ![Steam](https://img.shields.io/badge/Steam-mouyase-333333?style=flat&logo=steam&logoColor=000000)
 ![Xbox](https://img.shields.io/badge/Xbox-mouyase-333333?style=flat&logo=xbox&logoColor=107C10)
-![PlayStation](https://img.shields.io/badge/PlayStation-mouyase-333333?style=flat&logo=playstation&logoColor=003791)
+![PlayStation](https://img.shields.io/badge/PlayStation-mouyase_hk-333333?style=flat&logo=playstation&logoColor=003791)
 ![Twitter](https://img.shields.io/badge/Twitter-mouyase-333333?style=flat&logo=twitter&logoColor=1DA1F2)
 ![Telegram](https://img.shields.io/badge/Telegram-mouyase-333333?style=flat&logo=telegram&logoColor=26A5E4)
 
