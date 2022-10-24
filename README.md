@@ -1,6 +1,7 @@
 ## 👋 欢迎来到我的Github主页 | Welcome to my Github profile
 ---
-<img align="right" alt="GIF" src="https://github.com/mouyase/mouyase/blob/main/image/cover.jpg" />
+<div align="right"><img src="https://github.com/mouyase/mouyase/blob/main/image/cover.jpg" /></div>
+
 
 ### 🥰 我是谁 | Who am i
 
