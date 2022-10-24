@@ -1,4 +1,8 @@
 ## 👋 欢迎来到我的Github主页 | Welcome to my Github profile
+
+![](https://img.shields.io/github/followers/mouyase?style=social)
+![](https://img.shields.io/github/stars/mouyase?style=social)
+
 ---
 <img align="right" src="https://github.com/mouyase/mouyase/blob/main/image/cover.jpg" />
 
@@ -23,7 +27,8 @@
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js&logoColor=000000)
-- 🛢 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+- 💿 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
 - 🔧 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=81717)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=000000)
@@ -31,7 +36,7 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![PhotoShop](https://img.shields.io/badge/-PhotoShop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
-### 开源项目
+### 开源项目 | Open Source projects
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
 - [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
 - [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
