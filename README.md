@@ -41,7 +41,7 @@
 - [ChinaListForAdGuardHome - Some dns config files for AdGuardHome](https://github.com/mouyase/ChinaListForAdGuardHome)
 - [MiraiApi - Mikusa Random Image Api](https://github.com/mouyase/MiraiApi)
 
-### ℹ️ Github相关指标 | Github related metrics
+### ℹ️ Github相关信息 | Github infomation
 
 ![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouyase&theme=github)
 ![GithubMostCommitLanguage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouyase&theme=github)
