@@ -1,10 +1,6 @@
-## 👋 欢迎来到我的Github主页
-## 👋 Welcome to my Github profile
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+## 👋 欢迎来到我的Github主页 | Welcome to my Github profile
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/mouyase/mouyase/blob/main/image/cover.jpg" />
 
 ### 🥰 我是谁 | Who am i
 
@@ -37,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📝 ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=WebStorm)
-![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 
 ### 开源项目
 - [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
