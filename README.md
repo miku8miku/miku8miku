@@ -40,6 +40,7 @@
 - [pivisionM - A pixiv client for Android](https://github.com/mouyase/pivisionM)
 - [ChinaListForAdGuardHome - Some dns config files for AdGuardHome](https://github.com/mouyase/ChinaListForAdGuardHome)
 - [MiraiApi - Miku Random Image Api](https://github.com/mouyase/MiraiApi)
+- [YojigenLite - A hugo traditional style theme](https://github.com/mouyase/YojigenLite)
 
 ### ℹ️ Github相关信息 | Github infomation
 
