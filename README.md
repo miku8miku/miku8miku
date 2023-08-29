@@ -1,19 +1,17 @@
 ## 👋 欢迎来到我的Github主页 | Welcome to my Github profile
 
-![](https://img.shields.io/github/followers/mouyase?style=social)
-![](https://img.shields.io/github/stars/mouyase?style=social)
+![](https://img.shields.io/github/followers/miku8miku?style=social)
+![](https://img.shields.io/github/stars/miku8miku?style=social)
 
 ---
 <img align="right" src="https://cdn.jsdelivr.net/gh/mouyase/mouyase@master/image/cover.jpg" />
 
 ### 🥰 我是谁 | Who am i
 
-- My name is mouyase(某亚瑟)
-- Web engineer.
-- Tech enthusiast.
-- Open Source enthusiast.
-- Currently working in Chengdu, China.
-- I love anime & games.
+- My name is miku8miku
+- Student.
+- Currently in ShangHai, China.
+- I love ACG.
 
 ### 🛠 技术栈 | Tech stack
 
@@ -37,25 +35,22 @@
 ![PhotoShop](https://img.shields.io/badge/PhotoShop-333333?style=flat&logo=adobephotoshop&logoColor=31A8FF)
 
 ### 📂 开源项目 | Open Source projects
-- [pivisionM - A pixiv client for Android](https://github.com/mouyase/pivisionM)
-- [ChinaListForAdGuardHome - Some dns config files for AdGuardHome](https://github.com/mouyase/ChinaListForAdGuardHome)
-- [MiraiApi - Miku Random Image Api](https://github.com/mouyase/MiraiApi)
-- [YojigenLite - A hugo traditional style theme](https://github.com/mouyase/YojigenLite)
+
 
 ### ℹ️ Github相关信息 | Github infomation
 
-![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mouyase&theme=github)
-![GithubMostCommitLanguage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mouyase&theme=github)
+![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miku8miku&theme=github)
+![GithubMostCommitLanguage](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miku8miku&theme=github)
 
 ### 🔢 这里已经被光临过多少次 | How many times have viewer been here
-![Count](https://count.getloli.com/get/@mouyase?theme=gelbooru)
+![Count](https://count.getloli.com/get/@miku8miku?theme=gelbooru)
 
 ### 💖关于我 | About me
-![Weibo](https://img.shields.io/badge/Weibo-mouyase-333333?style=flat&logo=sinaweibo&logoColor=E6162D)
-![Steam](https://img.shields.io/badge/Steam-mouyase-333333?style=flat&logo=steam&logoColor=000000)
-![Xbox](https://img.shields.io/badge/Xbox-mouyase-333333?style=flat&logo=xbox&logoColor=107C10)
-![PlayStation](https://img.shields.io/badge/PlayStation-mouyase__hk-333333?style=flat&logo=playstation&logoColor=003791)
-![Twitter](https://img.shields.io/badge/Twitter-mouyase-333333?style=flat&logo=twitter&logoColor=1DA1F2)
-![Telegram](https://img.shields.io/badge/Telegram-mouyase-333333?style=flat&logo=telegram&logoColor=26A5E4)
+![Weibo]()
+![Steam]()
+![Xbox]()
+![PlayStation]()
+![Twitter]()
+![Telegram]()
 
 > ***I hope to have some friends with the same hobbies, if you are like that, please talk to me, i will be happy🥳***
