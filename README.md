@@ -46,11 +46,12 @@
 ![Count](https://count.getloli.com/get/@miku8miku?theme=gelbooru)
 
 ### 💖关于我 | About me
+<!--
 ![Weibo]()
 ![Steam]()
 ![Xbox]()
 ![PlayStation]()
 ![Twitter]()
 ![Telegram]()
-
+-->
 > ***I hope to have some friends with the same hobbies, if you are like that, please talk to me, i will be happy🥳***
